@@ -4,7 +4,7 @@ import time
 import os
 import sys
 
-client = tweepy.Client(bearer_token='AAAAAAAAAAAAAAAAAAAAAFx1aQEAAAAAz5l1b3NRUdGdwJNiLPcwqGbEJHM%3Dj63mhEWeALUId4sKPsTNWumvhHuzo3aB1lMhNVAhEDgIznUHC0')
+client = tweepy.Client(bearer_token='')
 query = 'maandamano'
 
 # Get tweets that contain the word maandamano
